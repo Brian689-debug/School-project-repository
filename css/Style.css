@@ -1,0 +1,135 @@
+h3{
+margin-top: 40px;
+text-decoration: underline;
+font-family: Chilanka;
+color: darkblue;
+text-align: center;
+
+}
+h5{
+color: burlywood;
+font-family: Chilanka;
+font-size:20px ;
+text-decoration: underline;
+margin-top: 20px;
+text-align: center;
+}
+p{
+color: black;
+text-decoration: unset;
+font-family: Garuda;
+
+
+}
+a{
+margin: 20px;
+}
+button{
+border-radius: 40px;
+padding: 10px;
+
+}
+.one{
+    background-color: burlywood;
+    width: 80%;
+    margin: auto;
+padding: 15px;
+
+}
+.two{
+    background-color: darkslategray;
+    width: 80%;
+    margin: auto    ;
+    padding: 10px;
+text-align: left;
+}
+.three{
+   background-color: dimgray;
+   width: 80%;
+   margin: auto;
+
+}
+
+/*Contact us*/
+
+
+
+
+
+p{
+font-family: Chilanka;
+color: black;
+text-decoration: unset;
+
+
+
+}
+button{
+padding: 10px;
+border-radius: 40px;
+
+}
+
+#top{
+    background-color: darkkhaki;
+    margin: auto;
+    width: 90%;
+
+
+}
+
+#middle{
+    background-color: coral;
+    width: 90%;
+    margin: auto;
+padding: 5px;
+}
+#bottom{
+    background-color: cornflowerblue;
+    width: 90%;
+    margin: auto;
+padding: 5px;/
+
+}
+
+.Container{
+    background-color: bisque;
+
+}
+table, th, td{
+    border: 2px solid black;
+border-collapse: collapse;
+
+}
+
+th, td{
+    background-color: maroon;
+border-color: midnightblue;
+}
+
+
+td{
+    text-align: center;
+
+}
+table{
+    border-spacing: 40px;
+}
+
+
+
+body{
+    background-color: coral;
+
+
+}
+
+form{
+    background-color: darkgoldenrod;
+    padding: 20px;
+    border-radius:10px ;
+    width: 750px;
+}
+
+
+
